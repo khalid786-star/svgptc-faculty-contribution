@@ -205,15 +205,16 @@ Screenshots documenting my contribution will be added below.
 
 ### 2. My Commit
 
-`02-commit.png`
+![image alt](https://github.com/khalid786-star/svgptc-faculty-contribution/blob/4b326445d1de7971789af6298359de4e58b63c92/02-commit.png)
 
 ### 3. Faculty Dashboard Feature
 
-`03-faculty-feature.png`
+![image alt]()
+![image alt]()
 
 ### 4. Automated Test Results
 
-`04-tests.png`
+![image alt]()
 
 ## 🛠️ Technologies Used
 
