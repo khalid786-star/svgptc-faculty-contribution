@@ -201,7 +201,7 @@ Screenshots documenting my contribution will be added below.
 
 ### 1. Pull Request & Code Review
 
-`01-pr-and-review.png`
+
 
 ### 2. My Commit
 
