@@ -214,7 +214,7 @@ Screenshots documenting my contribution will be added below.
 
 ### 4. Automated Test Results
 
-![image alt]()
+![image alt](https://github.com/khalid786-star/svgptc-faculty-contribution/blob/cd14c4613e028e55dbdb2f3a4df960a5b3d7368a/04-Test%20Results.png)
 
 ## 🛠️ Technologies Used
 
