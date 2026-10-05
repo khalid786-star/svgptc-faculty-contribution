@@ -209,7 +209,7 @@ Screenshots documenting my contribution will be added below.
 
 ### 3. Faculty Dashboard Feature
 
-![image alt]()
+![image alt](https://github.com/khalid786-star/svgptc-faculty-contribution/blob/0fb0c44ad73e3afa9bff238577e3664b32875f9d/03-faculty-feature.png%201.png)
 ![image alt]()
 
 ### 4. Automated Test Results
